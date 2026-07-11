@@ -21,6 +21,7 @@ const feeds: string[] = [
   "devops",
   "data",
   "infosec",
+  "it",
 ];
 
 type NewsWithDate = News & { date: string };
